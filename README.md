@@ -1,5 +1,5 @@
 # Archive of Books
-> This collection is arranged **by author**.
+> This collection is arranged **by author**. Books marked with ⚜️ means they've been personally finished. 
 
 <table width="100%">
 	<tr><pre><b>Table of Contents</b></pre></tr>
@@ -74,6 +74,12 @@
 | `Mystery`, `Thriller` | `N/A` | | `Endless Night` |
 | `Mystery`, `Thriller` | `N/A` | | `Murder On The Orient Express` |
 
+### Christo, Alexandra
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Fantasy`, `Romance` | `N/A` | | `To Kill A Kingdom ⚜️` |
+
 <h3><pre>F</pre></h3>
 
 ### Fenichel, A.S.
@@ -98,6 +104,13 @@
 |:--|:--|:--|:--|
 | `Fantasy`, `Romance` | `All The Stars and Teeth` |  | `All The Stars and Teeth` |
 | `Fantasy`, `Romance` | `Belladonna` | `#1` | `Belladonna` |
+
+### Guanzon, Thea
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Fantasy`, `Romance` | `The Hurricane Wars` | `#1` | `The Hurricane Wars ⚜️` |
+| `Fantasy`, `Romance` | `The Hurricane Wars` | `#2` | `A Monsoon Rising` |
 
 <h3><pre>H</pre></h3>
 
@@ -130,7 +143,33 @@
 |:--|:--|:--|:--|
 | `Historical`, `LGBT` | `N/A` | | `A Million to One` |
 
+<h3><pre>K</pre></h3>
+
+### Kleon, Austin
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Self-Help`, `Art` | `N/A` | | `Keep Going` |
+| `Self-Help`, `Art` | `N/A` | | `Show Your Work! ⚜️` |
+| `Self-Help`, `Art` | `N/A` | | `Steal Like An Artist ⚜️` |
+
+<h3><pre>L</pre></h3>
+
+### Liang, Ann
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Contemporary`, `Romance` | `N/A` | | `I Hope This Doesn't Find You` |
+| `Fantasy`, `Romance` | `N/A` | | `If You Could See The Sun ⚜️` |
+| `Contemporary`, `Romance` | `N/A` | | `This Time It's Real` |
+
 <h3><pre>M</pre></h3>
+
+### Montell, Amanda
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Non-Fiction`, `Cults` | `N/A` | | `Cultish ⚜️` |
 
 ### Mulford, A.K.
 
