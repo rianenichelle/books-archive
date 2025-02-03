@@ -40,11 +40,49 @@
 
 <h3><pre>A</pre></h3>
 
+### Abike-Iyimide, Faridah
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Mystery`, `Thriller` | `N/A` | | `Ace of Spades` |
+
+### Acevedo, Elizabeth
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Poetry`, `Contemporary` | `N/A` | | `Clap When You Land` |
+| `Romance`, `Contemporary` | `N/A` | | `With The Fire On High` |
+
+### Adler, Dahlia
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Short Stories`, `Horror` | `N/A` | | `His Hideous Heart` |
+
 ### Alsaid, Adi
 
 | Genre | Series | No. | Title |
 |:--|:--|:--|:--|
 | `Mystery`, `Thriller` | `N/A` | | `Come On In` |
+
+### Andres, Claire M.
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Mythology`, `Fantasy` | `Daughter of Sparta` | `#1` | `Daughter of Sparta` |
+
+### Armas, Elena
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Romance`, `Contemporary` | `N/A` | | `The American Roommate Experiment` |
+| `Romance`, `Contemporary` | `N/A` | | `The Spanish Love Deception ⚜️` |
+
+### Arnold, Elana K
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Retelling`, `Fantasy` | `N/A` | | `Damsel` |
 
 ### Audrain, Ashley
 
@@ -53,6 +91,19 @@
 | `Short Stories`, `Contemporary` | `N/A` | | `The Push` |
 
 <h3><pre>B</pre></h3>
+
+### Backman, Fredrik
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Contemporary`, `Mystery` | `N/A` | | `Anxious People` |
+| `Contemporary`, `Sports` | `Beartown` | `#1` | `Beartown` |
+
+### Ballard, Falon
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Contemporary`, `Romance` | `N/A` | | `Lease on Love` |
 
 ### Bazterrica, Agustina
 
@@ -72,11 +123,31 @@
 |:--|:--|:--|:--|
 | `Historical`, `Romance` | `N/A` | | `Lovely War` |
 
+### Blackwood, Emily
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Fantasy`, `Romance` | `Fae of Rewyth` | `#1` | `House of Lies and Sorrow` |
+
 ### Boulley, Angeline
 
 | Genre | Series | No. | Title |
 |:--|:--|:--|:--|
 | `Mystery`, `Thriller` | `N/A` | | `Firekeeper's Daughter` |
+
+### Borison, B.K.
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Contemporary`, `Romance` | `Lovelight` | `#1` | `Lovelight Farms` |
+| `Contemporary`, `Romance` | `Lovelight` | `#2` | `In The Weeds` |
+| `Contemporary`, `Romance` | `Lovelight` | `#3` | `Mixed Signals` |
+
+### Boulley, Angeline
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Mystery`, `Thriller` | `N/A` |  | `Firekeeper's Daughter` |
 
 ### Bowman, Akemi Dawn
 
@@ -89,6 +160,12 @@
 | Genre | Series | No. | Title |
 |:--|:--|:--|:--|
 | `Fantasy`, `Mythology` | `N/A` | | `Lore` |
+
+### Bronte, Charlotte
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Classic`, `Gothic` | `N/A` | | `Jane Eyre` |
 
 ### Burgess, Anthony
 
@@ -109,6 +186,18 @@
 | Genre | Series | No. | Title |
 |:--|:--|:--|:--|
 | `Contemporary`, `Feminism` | `N/A` | | `Queenie` |
+
+### Cha, Frances
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Asia`, `Feminism` | `N/A` | | `If I Had Your Face` |
+
+### Cho, Nam-joo
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Contemporary`, `Feminism` | `N/A` | | `Kim Jiyoung, Born 1982` |
 
 ### Christian, Brian
 
