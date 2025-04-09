@@ -255,7 +255,7 @@
 
 | Genre | Series | No. | Title |
 |:--|:--|:--|:--|
-| `Science Fiction`, `Dystopia` | `The Handmaid's Tale` | `#1` | `The Handmaid's Tale` |
+| `Science Fiction`, `Dystopia` | `The Handmaid's Tale` | `#1` | `The Handmaid's Tale ⚜️` |
 | `Science Fiction`, `Dystopia` | `The Handmaid's Tale` | `#2` | `Testaments` |
 | `Mythology`, `History` | `N/A` | | `The Penelopiad` |
 
