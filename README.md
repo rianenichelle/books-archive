@@ -53,11 +53,61 @@
 | `Poetry`, `Contemporary` | `N/A` | | `Clap When You Land` |
 | `Romance`, `Contemporary` | `N/A` | | `With The Fire On High` |
 
+### Adams, Sara Nisha
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Romance`, `Contemporary` | `N/A` | | `The Reading List` |
+
+### Adams, Sarah
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Romance`, `Contemporary` | `The Cheat Sheet` | `#1` | `The Cheat Sheet ⚜️` |
+
+### Adeyemi, Tomi
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Fantasy`, `Magic` | `Legacy of Orisha` | `#1` | `Children of Blood and Bone` |
+| `Fantasy`, `Magic` | `Legacy of Orisha` | `#2` | `Children of Virtue and Vengeance` |
+
 ### Adler, Dahlia
 
 | Genre | Series | No. | Title |
 |:--|:--|:--|:--|
 | `Short Stories`, `Horror` | `N/A` | | `His Hideous Heart` |
+
+### Afia, Nekesa
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Historical`, `Mystery` | `Harlem Renaissance Mystery` | `#1` | `Dead Dead Girls` |
+
+### Akbar, Kaveh
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Contemporary`, `Poetry` | `N/A` | | `Martyr!` |
+
+### Albert, Melissa
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Fantasy`, `Mystery` | `The Hazel Wood` | `#1` | `The Hazel Wood` |
+| `Fantasy`, `Mystery` | `The Hazel Wood` | `#2` | `The Night Country` |
+
+### Ali, S.K.
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Romance`, `Contemporary` | `N/A` | | `Love From A to Z` |
+
+### Allende, Isabel
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Historical`, `Magical Realism` | `N/A` | | `Violeta` |
 
 ### Alsaid, Adi
 
@@ -65,11 +115,76 @@
 |:--|:--|:--|:--|
 | `Mystery`, `Thriller` | `N/A` | | `Come On In` |
 
+### Alvarez, Robin
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Fantasy`, `Retelling` | `N/A` | | `When Oceans Rise` |
+
+
+### Ancrum, K.
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Contemporary`, `Fantasy` | `The Wicker King` | `#1` | `The Wicker King` |
+
+### Anderson, Laurie Halse
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Contemporary`, `Mental Health` | `N/A` | | `Speak` |
+
 ### Andres, Claire M.
 
 | Genre | Series | No. | Title |
 |:--|:--|:--|:--|
 | `Mythology`, `Fantasy` | `Daughter of Sparta` | `#1` | `Daughter of Sparta` |
+
+### Andrews, Claire M.
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Fantasy`, `Mythology` | `Daughter of Sparta` | `#1` | `Daughter of Sparta` |
+
+### Andrews, Claire M.
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Fantasy`, `Romance` | `Kingdom of Cards` | `#1` | `Where Dreams Descend` |
+| `Fantasy`, `Romance` | `Kingdom of Cards` | `#2` | `Where Night Breaks` |
+
+### Aoki, Ryka
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Fantasy`, `Science Fiction` | `N/A` | | `Light From Uncommon Stars` |
+
+### Aoyama, Michiko
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Contemporary`, `Japan` | `N/A` | | `What You Are Looking For is in The Library` |
+
+### Archer, Jeffrey
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Mystery`, `Thriller` | `N/A` | | `As The Crow Flies` |
+
+### Arden, Katherine
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Historical`, `Mythology` | `The Winternight Trilogy` | `#1` | `The Bear and The Nightingale` |
+| `Historical`, `Mythology` | `The Winternight Trilogy` | `#2` | `The Girl in The Tower` |
+| `Historical`, `Mythology` | `The Winternight Trilogy` | `#3` | `The Winter of The Witch` |
+
+### Arikawa, Hiro
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Short Stories`, `Japan` | `N/A` | | `The Goodbye Cat` |
+| `Contemporary`, `Japan` | `N/A` | | `The Travelling Cat Chronicles` |
 
 ### Armas, Elena
 
@@ -78,17 +193,102 @@
 | `Romance`, `Contemporary` | `N/A` | | `The American Roommate Experiment` |
 | `Romance`, `Contemporary` | `N/A` | | `The Spanish Love Deception ⚜️` |
 
-### Arnold, Elana K
+### Armentrout, Jennifer L.
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Fantasy`, `Romance` | `Blood and Ash` | `#1` | `From Blood and Ash ⚜️` |
+| `Fantasy`, `Romance` | `Blood and Ash` | `#2` | `A Kingdom of Flesh and Fire ⚜️` |
+| `Fantasy`, `Romance` | `Blood and Ash` | `#3` | `The Crown of Gilded Bones ⚜️` |
+| `Fantasy`, `Romance` | `Blood and Ash` | `#4` | `The War of Two Queens` |
+| `Fantasy`, `Romance` | `Blood and Ash` | `#4.1` | `Cupcakes and Kisses` |
+| `Fantasy`, `Romance` | `Blood and Ash` | `#5` | `A Soul of Ash and Blood` |
+| `Fantasy`, `Romance` | `Flesh and Fire` | `#1` | `A Shadow in The Ember` |
+| `Fantasy`, `Romance` | `Flesh and Fire` | `#2` | `A Light in The Flame` |
+| `Fantasy`, `Romance` | `Flesh and Fire` | `#3` | `A Fire in The Flesh` |
+| `Fantasy`, `Romance` | `Flesh and Fire` | `#4` | `Born of Blood and Ash` |
+| `Fantasy`, `Romance` | `The Harbinger` | `#1` | `Storm and Fury` |
+| `Fantasy`, `Romance` | `The Harbinger` | `#2` | `Rage and Ruin` |
+| `Fantasy`, `Romance` | `The Harbinger` | `#3` | `Grace and Glory` |
+| `Fantasy`, `Romance` | `N/A` |  | `Meet Cute` |
+
+### Armfield, Julia
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Short Stories`, `Horror` | `N/A` | | `Salt Slow` |
+
+### Arnett, Mindee
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Science Fiction`, `Dystopia` | `Avalon` | `#1` | `Avalon` |
+| `Science Fiction`, `Dystopia` | `Avalon` | `#2` | `Polaris` |
+| `Fantasy`, `Romance` | `Rime Chronicles` | `#1` | `Onyx and Ivory` |
+| `Fantasy`, `Romance` | `Rime Chronicles` | `#2` | `Shadow and Flame` |
+
+### Arnold, Elana K.
 
 | Genre | Series | No. | Title |
 |:--|:--|:--|:--|
 | `Retelling`, `Fantasy` | `N/A` | | `Damsel` |
+
+### Asher, Jay
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Romance`, `Contemporary` | `N/A` | | `The Future of Us` |
+
+### Asher, Lauren
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Romance`, `Contemporary` | `Dirty Air` | `#1` | `Throttled` |
+| `Romance`, `Contemporary` | `Dirty Air` | `#2` | `Collided` |
+| `Romance`, `Contemporary` | `Dirty Air` | `#3` | `Wrecked` |
+| `Romance`, `Contemporary` | `Dirty Air` | `#4` | `Redeemed` |
+| `Romance`, `Contemporary` | `Dreamland Billionaires` | `#1` | `The Fine Print ⚜️` |
+| `Romance`, `Contemporary` | `Dreamland Billionaires` | `#2` | `Terms and Conditions ⚜️` |
+| `Romance`, `Contemporary` | `Dreamland Billionaires` | `#3` | `Final Offer ⚜️` |
+
+### Atwood, Margaret
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Science Fiction`, `Dystopia` | `The Handmaid's Tale` | `#1` | `The Handmaid's Tale` |
+| `Science Fiction`, `Dystopia` | `The Handmaid's Tale` | `#2` | `Testaments` |
+| `Mythology`, `History` | `N/A` | | `The Penelopiad` |
+
+### Au, Jessica
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Novella`, `Contemporary` | `N/A` | | `Cold Enough For Snow` |
 
 ### Audrain, Ashley
 
 | Genre | Series | No. | Title |
 |:--|:--|:--|:--|
 | `Short Stories`, `Contemporary` | `N/A` | | `The Push` |
+
+### Austen, Jane
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Classic`, `Romance` | `N/A` | | `Emma` |
+
+### Aveyard, Victoria
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `High Fantasy`, `Magic` | `Realm Breaker` | `#1` | `Realm Breaker` |
+
+### Awad, Mona
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Contemporary`, `Horror` | `N/A` | | `All's Well` |
+| `Contemporary`, `Horror` | `Bunny` | `#1` | `Bunny` |
 
 <h3><pre>B</pre></h3>
 
