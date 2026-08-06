@@ -200,7 +200,7 @@
 | `Fantasy`, `Romance` | `Blood and Ash` | `#1` | `From Blood and Ash ⚜️` |
 | `Fantasy`, `Romance` | `Blood and Ash` | `#2` | `A Kingdom of Flesh and Fire ⚜️` |
 | `Fantasy`, `Romance` | `Blood and Ash` | `#3` | `The Crown of Gilded Bones ⚜️` |
-| `Fantasy`, `Romance` | `Blood and Ash` | `#4` | `The War of Two Queens` |
+| `Fantasy`, `Romance` | `Blood and Ash` | `#4` | `The War of Two Queens ⚜️` |
 | `Fantasy`, `Romance` | `Blood and Ash` | `#4.1` | `Cupcakes and Kisses` |
 | `Fantasy`, `Romance` | `Blood and Ash` | `#5` | `A Soul of Ash and Blood` |
 | `Fantasy`, `Romance` | `Flesh and Fire` | `#1` | `A Shadow in The Ember` |
