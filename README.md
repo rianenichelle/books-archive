@@ -94,10 +94,10 @@
 | `Paranormal`, `Romance` | `The Beautiful` | `#2` | `The Damned` |
 | `Paranormal`, `Romance` | `The Beautiful` | `#3` | `The Righteous` |
 | `Paranormal`, `Romance` | `The Beautiful` | `#4` | `The Ruined` |
-| `Retelling`, `Romance` | `The Wrath and The Dawn` | `#0.25` | `The Moth and The Flame` |
-| `Retelling`, `Romance` | `The Wrath and The Dawn` | `#0.5` | `The Crown and The Arrow` |
-| `Retelling`, `Romance` | `The Wrath and The Dawn` | `#1` | `The Wrath and The Dawn` |
-| `Retelling`, `Romance` | `The Wrath and The Dawn` | `#1` | `The Rose and The Dagger` |
+| `Retelling`, `Romance` | `The Wrath and The Dawn` | `#0.25` | `The Moth and The Flame ⚜️` |
+| `Retelling`, `Romance` | `The Wrath and The Dawn` | `#0.5` | `The Crown and The Arrow ⚜️` |
+| `Retelling`, `Romance` | `The Wrath and The Dawn` | `#1` | `The Wrath and The Dawn ⚜️` |
+| `Retelling`, `Romance` | `The Wrath and The Dawn` | `#1` | `The Rose and The Dagger ⚜️` |
 
 ### Akbar, Kaveh
 
@@ -487,7 +487,7 @@
 
 | Genre | Series | No. | Title |
 |:--|:--|:--|:--|
-| `Contemporary`, `Romance` | `N/A` | | `A Show For Two` |
+| `Contemporary`, `Romance` | `N/A` | | `A Show For Two ⚜️` |
 | `Contemporary`, `Romance` | `N/A` | | `Counting Down With You` |
 
 ### Bird, Tanya
@@ -733,7 +733,7 @@
 
 | Genre | Series | No. | Title |
 |:--|:--|:--|:--|
-| `Contemporary`, `Romance` | `N/A` | | `The Charm Offensive ⚜️` |
+| `Contemporary`, `Romance` | `N/A` | | `To Kill A Kingdom ⚜️` |
 
 ### Cochrun, Alison
 
@@ -811,7 +811,7 @@
 
 | Genre | Series | No. | Title |
 |:--|:--|:--|:--|
-| `Contemporary`, `Romance` | `N/A` | | `My Mechanical Romance` |
+| `Contemporary`, `Romance` | `N/A` | | `My Mechanical Romance ⚜️` |
 
 ### Foody, Amanda
 
@@ -925,7 +925,7 @@
 
 | Genre | Series | No. | Title |
 |:--|:--|:--|:--|
-| `Science Fiction`, `Fantasy` | `Illuminae Files` | `#0.5` | `Memento` |
+| `Science Fiction`, `Fantasy` | `Illuminae Files` | `#0.5` | `Memento ⚜️` |
 | `Science Fiction`, `Fantasy` | `The Aurora Cycle` | `#1` | `Aurora Rising` |
 | `Science Fiction`, `Fantasy` | `The Aurora Cycle` | `#2` | `Aurora Burning` |
 | `Science Fiction`, `Fantasy` | `The Aurora Cycle` | `#3` | `Aurora's End` |
