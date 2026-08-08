@@ -84,6 +84,21 @@
 |:--|:--|:--|:--|
 | `Historical`, `Mystery` | `Harlem Renaissance Mystery` | `#1` | `Dead Dead Girls` |
 
+### Ahdieh, Renee
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Historical`, `Fantasy` | `Flame in The Mist` | `#1` | `Flame in The Mist` |
+| `Historical`, `Fantasy` | `Flame in The Mist` | `#2` | `Smoke in The Sun` |
+| `Paranormal`, `Romance` | `The Beautiful` | `#1` | `The Beautiful` |
+| `Paranormal`, `Romance` | `The Beautiful` | `#2` | `The Damned` |
+| `Paranormal`, `Romance` | `The Beautiful` | `#3` | `The Righteous` |
+| `Paranormal`, `Romance` | `The Beautiful` | `#4` | `The Ruined` |
+| `Retelling`, `Romance` | `The Wrath and The Dawn` | `#0.25` | `The Moth and The Flame` |
+| `Retelling`, `Romance` | `The Wrath and The Dawn` | `#0.5` | `The Crown and The Arrow` |
+| `Retelling`, `Romance` | `The Wrath and The Dawn` | `#1` | `The Wrath and The Dawn` |
+| `Retelling`, `Romance` | `The Wrath and The Dawn` | `#1` | `The Rose and The Dagger` |
+
 ### Akbar, Kaveh
 
 | Genre | Series | No. | Title |
@@ -146,7 +161,7 @@
 |:--|:--|:--|:--|
 | `Fantasy`, `Mythology` | `Daughter of Sparta` | `#1` | `Daughter of Sparta` |
 
-### Andrews, Claire M.
+### Angeles, Janella
 
 | Genre | Series | No. | Title |
 |:--|:--|:--|:--|
@@ -164,6 +179,13 @@
 | Genre | Series | No. | Title |
 |:--|:--|:--|:--|
 | `Contemporary`, `Japan` | `N/A` | | `What You Are Looking For is in The Library` |
+| `Contemporary`, `Japan` | `N/A` | | `The Healing Hippo of Hinode Park` |
+
+### Apostol, Gina
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Historical`, `Asia` | `N/A` | | `Bibliolepsy` |
 
 ### Archer, Jeffrey
 
@@ -201,8 +223,11 @@
 | `Fantasy`, `Romance` | `Blood and Ash` | `#2` | `A Kingdom of Flesh and Fire ⚜️` |
 | `Fantasy`, `Romance` | `Blood and Ash` | `#3` | `The Crown of Gilded Bones ⚜️` |
 | `Fantasy`, `Romance` | `Blood and Ash` | `#4` | `The War of Two Queens ⚜️` |
-| `Fantasy`, `Romance` | `Blood and Ash` | `#4.1` | `Cupcakes and Kisses` |
+| `Fantasy`, `Romance` | `Blood and Ash` | `#4.1` | `Cupcakes and Kisses ⚜️` |
 | `Fantasy`, `Romance` | `Blood and Ash` | `#5` | `A Soul of Ash and Blood` |
+| `Fantasy`, `Romance` | `Blood and Ash` | `#5.5` | `Visions of Flesh and Blood` |
+| `Fantasy`, `Romance` | `Blood and Ash` | `#6` | `The Primal of Blood and Bone` |
+| `Fantasy`, `Romance` | `Blood and Ash` | `#6.5` | `A Crown of Ruin` |
 | `Fantasy`, `Romance` | `Flesh and Fire` | `#1` | `A Shadow in The Ember` |
 | `Fantasy`, `Romance` | `Flesh and Fire` | `#2` | `A Light in The Flame` |
 | `Fantasy`, `Romance` | `Flesh and Fire` | `#3` | `A Fire in The Flesh` |
@@ -256,8 +281,15 @@
 | Genre | Series | No. | Title |
 |:--|:--|:--|:--|
 | `Science Fiction`, `Dystopia` | `The Handmaid's Tale` | `#1` | `The Handmaid's Tale ⚜️` |
-| `Science Fiction`, `Dystopia` | `The Handmaid's Tale` | `#2` | `Testaments` |
+| `Science Fiction`, `Dystopia` | `The Handmaid's Tale` | `#2` | `The Testaments ⚜️` |
 | `Mythology`, `History` | `N/A` | | `The Penelopiad` |
+
+### Aster, Alex
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Fantasy`, `Mythology` | `Emblem Island` | `#1` | `Curse of the Night Witch` |
+| `Fantasy`, `Romance` | `Lightlark` | `#1` | `Lightlark` |
 
 ### Au, Jessica
 
@@ -276,6 +308,7 @@
 | Genre | Series | No. | Title |
 |:--|:--|:--|:--|
 | `Classic`, `Romance` | `N/A` | | `Emma` |
+| `Classic`, `Romance` | `N/A` | | `Persuasion` |
 
 ### Aveyard, Victoria
 
@@ -292,12 +325,50 @@
 
 <h3><pre>B</pre></h3>
 
+### Bachmann, Stefan
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Mystery`, `Fantasy` | `N/A` | | `Cinders and Sparrows` |
+
 ### Backman, Fredrik
 
 | Genre | Series | No. | Title |
 |:--|:--|:--|:--|
-| `Contemporary`, `Mystery` | `N/A` | | `Anxious People` |
 | `Contemporary`, `Sports` | `Beartown` | `#1` | `Beartown` |
+| `Contemporary`, `Mystery` | `N/A` | | `Anxious People` |
+
+### Bailey, Tessa
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Contemporary`, `Romance` | `Bellinger Sisters` | `#1` | `It Happened One Summer` |
+| `Contemporary`, `Romance` | `Bellinger Sisters` | `#2` | `Hook, Line and Sinker` |
+| `Contemporary`, `Romance` | `Line of Duty` | `#1` | `Protecting What's His` |
+| `Contemporary`, `Romance` | `Line of Duty` | `#2` | `His Risk to Take` |
+| `Contemporary`, `Romance` | `Hot & Hammered` | `#1` | `Fix Her Up` |
+| `Romance`, `Mystery` | `N/A` | | `My Killer Vacation` |
+| `Contemporary`, `Romance` | `N/A` |  | `Window Shopping` |
+
+### Baker, Kylie Lee
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Fantasy`, `Mythology` | `The Keeper of Night` | `#1` | `The Keeper of Night` |
+| `Fantasy`, `Mythology` | `The Keeper of Night` | `#2` | `The Empress of Time` |
+
+### Baldree, Travis
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Fantasy`, `Romance` | `Legends and Lattes` | `#1` | `Legends and Lattes ⚜️` |
+
+### Baldwin, James
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Classic`, `Romance` | `N/A` | | `Giovanni's Room` |
+| `Classic`, `Romance` | `N/A` | | `If Beale Street Could Talk` |
 
 ### Ballard, Falon
 
@@ -305,11 +376,82 @@
 |:--|:--|:--|:--|
 | `Contemporary`, `Romance` | `N/A` | | `Lease on Love` |
 
+### Banghart, Tracy
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Fantasy`, `Romance` | `N/A` | | `A Season of Sinister Dreams` |
+
+### Bardugo, Leigh
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Fantasy`, `Adventure` | `Shadow and Bone` | `#1` | `Shadow and Bone ⚜️` |
+| `Fantasy`, `Adventure` | `Shadow and Bone` | `#2` | `Siege and Storm ⚜️` |
+| `Fantasy`, `Adventure` | `Shadow and Bone` | `#3` | `Ruin and Rising ⚜️` |
+| `Fantasy`, `Adventure` | `Six of Crows` | `#1` | `Six of Crows ⚜️` |
+| `Fantasy`, `Adventure` | `Six of Crows` | `#2` | `Crooked Kingdom ⚜️` |
+| `Fantasy`, `Adventure` | `King of Scars` | `#1` | `King of Scars` |
+| `Fantasy`, `Adventure` | `King of Scars` | `#2` | `Rule of Wolves` |
+| `Fantasy`, `Mystery` | `Ninth House` | `#1` | `Ninth House` |
+| `Fantasy`, `Adventure` | `N/A` |  | `The Language of Thorns` |
+| `Fantasy`, `Adventure` | `N/A` |  | `The Lives of Saints` |
+
+### Barker, Pat
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Retelling`, `Mythology` | `Women of Troy` | `#1` | `The Silence of the Girls` |
+
+### Barnes, Jennifer Lynn
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Contemporary`, `Mystery` | `The Inheritance Games` | `#1` | `The Inheritance Games ⚜️` |
+| `Contemporary`, `Mystery` | `The Inheritance Games` | `#4` | `The Brothers Hawthorne` |
+| `Mystery`, `Thriller` | `The Naturals` | `#1` | `The Naturals ⚜️` |
+| `Mystery`, `Thriller` | `The Naturals` | `#2` | `Killer Instinct ⚜️` |
+| `Mystery`, `Thriller` | `The Naturals` | `#3` | `All In ⚜️` |
+| `Mystery`, `Thriller` | `The Naturals` | `#4` | `Bad Blood ⚜️` |
+
+### Barnhill, Kelly
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Middle Grade`, `Fantasy` | `N/A` | | `The Girl Who Drank the Moon` |
+| `Magical Realism`, `Historical` | `N/A` | | `When Women Were Dragons` |
+
+### Bayron, Kalynn
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Mythology`, `Fantasy` | `This Poison Heart` | `#1` | `This Poison Heart` |
+
 ### Bazterrica, Agustina
 
 | Genre | Series | No. | Title |
 |:--|:--|:--|:--|
 | `Horror`, `Dystopia` | `N/A` | | `Tender is the Flesh` |
+
+### Beck, Hazel
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Fantasy`, `Romance` | `N/A` | | `Small Town, Big Magic` |
+
+### Bennet, Julia
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Historical`, `Romance` | `N/A` | | `The Worst Woman in London` |
+
+### Bennet, Robert Jackson
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Fantasy`, `Science Fiction` | `The Founders` | `#1` | `Foundryside` |
+| `Fantasy`, `Science Fiction` | `The Founders` | `#2` | `Shorefall` |
+| `Fantasy`, `Science Fiction` | `The Founders` | `#3` | `Locklands` |
 
 ### Bennett, Brit
 
@@ -317,11 +459,54 @@
 |:--|:--|:--|:--|
 | `Historical`, `Race` | `N/A` | | `The Vanishing Half` |
 
+### Benway, Robin
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Contemporary`, `Family` | `N/A` | | `Far From the Tree` |
+
 ### Berry, Julie
 
 | Genre | Series | No. | Title |
 |:--|:--|:--|:--|
 | `Historical`, `Romance` | `N/A` | | `Lovely War` |
+
+### Bertino, Marie-Helene
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Contemporary`, `Science Fiction` | `N/A` | | `Beautyland` |
+
+### Bhathena, Tanaz
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Fantasy`, `Mythology` | `The Wrath of Ambar` | `#1` | `Hunted by the Sky` |
+
+### Bhuiyan, Tashie
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Contemporary`, `Romance` | `N/A` | | `A Show For Two` |
+| `Contemporary`, `Romance` | `N/A` | | `Counting Down With You` |
+
+### Bird, Tanya
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Fantasy`, `Romance` | `The Companion` | `#1` | `The Common Girl` |
+
+### Black, Holly
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Fantasy`, `Romance` | `The Folk of the Air` | `#1` | `The Cruel Prince ⚜️` |
+| `Fantasy`, `Romance` | `The Folk of the Air` | `#1.5` | `The Lost Sisters ⚜️` |
+| `Fantasy`, `Romance` | `The Folk of the Air` | `#2` | `The Wicked King ⚜️` |
+| `Fantasy`, `Romance` | `The Folk of the Air` | `#3` | `The Queen of Nothing ⚜️` |
+| `Fantasy`, `Romance` | `The Folk of the Air` | `#3.5` | `How the King of Elfhame Hated Stories ⚜️` |
+| `Fantasy`, `Paranormal` | `The Charlatan Duology` | `#1` | `Book of Night` |
+| `Horror`, `Paranormal` | `N/A` |  | `The Coldest Girl in Coldtown` |
 
 ### Blackwood, Emily
 
@@ -329,11 +514,44 @@
 |:--|:--|:--|:--|
 | `Fantasy`, `Romance` | `Fae of Rewyth` | `#1` | `House of Lies and Sorrow` |
 
-### Boulley, Angeline
+### Blake, Kendare
 
 | Genre | Series | No. | Title |
 |:--|:--|:--|:--|
-| `Mystery`, `Thriller` | `N/A` | | `Firekeeper's Daughter` |
+| `Fantasy`, `Romance` | `Three Dark Crowns` | `#1` | `Three Dark Crowns ⚜️` |
+| `Fantasy`, `Romance` | `Three Dark Crowns` | `#2` | `One Dark Throne` |
+| `Fantasy`, `Romance` | `Three Dark Crowns` | `#3` | `Two Dark Reigns` |
+| `Fantasy`, `Romance` | `Three Dark Crowns` | `#4` | `Five Dark Fates` |
+
+### Blake, Olivie
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Fantasy`, `Mystery` | `The Atlas` | `#1` | `The Atlas Six ⚜️` |
+| `Fantasy`, `Mystery` | `The Atlas` | `#2` | `The Atlas Paradox ⚜️` |
+| `Fantasy`, `Mystery` | `The Atlas` | `#3` | `The Atlas Complex` |
+| `Contemporary`, `Romance` | `N/A` |  | `Alone With You in the Ether` |
+| `Fantasy`, `Paranormal` | `N/A` |  | `Masters of Death` |
+| `Retelling`, `Romance` | `N/A` |  | `One For My Enemy` |
+
+### Bolton, S.J.
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Mystery`, `Thriller` | `N/A` | | `The Pact` |
+
+### Bonam-Young, Hannah
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Contemporary`, `Romance` | `Next` | `#1` | `Next of Kin` |
+| `Contemporary`, `Romance` | `Out` | `#1` | `Out On A Limb` |
+
+### Bond, Gwenda
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Science Fiction`, `Horror` | `Stranger Things` | `#1` | `Suspicious Minds` |
 
 ### Borison, B.K.
 
@@ -347,7 +565,15 @@
 
 | Genre | Series | No. | Title |
 |:--|:--|:--|:--|
-| `Mystery`, `Thriller` | `N/A` |  | `Firekeeper's Daughter` |
+| `Mystery`, `Thriller` | `N/A` | | `Firekeeper's Daughter` |
+
+### Bourne, Holly
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Contemporary`, `Feminism` | `The Spinster Club` | `#1` | `Am I Normal Yet?` |
+| `Contemporary`, `Feminism` | `The Spinster Club` | `#2` | `How Hard Can Love Be?` |
+| `Contemporary`, `Feminism` | `The Spinster Club` | `#3` | `What's A Girl Gotta Do?` |
 
 ### Bowman, Akemi Dawn
 
@@ -355,11 +581,54 @@
 |:--|:--|:--|:--|
 | `Fantasy`, `Science Fiction` | `The Infinity Courts` | `#1` | `The Infinity Courts` |
 
+### Boyce, Kristy
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Contemporary`, `Romance` | `Dungeons and Drama` | `#1` | `Dungeons and Drama` |
+
 ### Bracken, Alexandra
 
 | Genre | Series | No. | Title |
 |:--|:--|:--|:--|
 | `Fantasy`, `Mythology` | `N/A` | | `Lore` |
+
+### Bray, Libba
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Fantasy`, `Historical` | `The Diviners` | `#1` | `The Diviners` |
+| `Fantasy`, `Historical` | `The Diviners` | `#2` | `Lair of Dreams` |
+| `Fantasy`, `Historical` | `The Diviners` | `#3` | `Before the Devil Breaks You` |
+| `Fantasy`, `Historical` | `The Diviners` | `#4` | `The King of Crows` |
+
+
+### Brennan, Sarah Rees
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Fantasy`, `Romance` | `Time of Iron` | `#1` | `Long Live Evil` |
+
+### Brett, Peter V.
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Fantasy`, `Epic Fantasy` | `The Nightfall Saga` | `#1` | `The Desert Prince` |
+
+### Broder, Melissa
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Contemporary`, `Romance` | `N/A` | | `Milk Fed` |
+| `Non-Fiction`, `Mental Health` | `N/A` | | `So Sad Today` |
+| `Fantasy`, `Romance` | `N/A` | | `The Pisces` |
+
+### Brody, Jessica
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Fantasy`, `Retelling` | `System Divine` | `#1` | `Sky Without Stars` |
+| `Fantasy`, `Retelling` | `System Divine` | `#2` | `Between Burning Worlds` |
 
 ### Bronte, Charlotte
 
@@ -367,11 +636,48 @@
 |:--|:--|:--|:--|
 | `Classic`, `Gothic` | `N/A` | | `Jane Eyre` |
 
+### Brown, Pierce
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Fantasy`, `Dystopia` | `Red Rising Saga` | `#1` | `Red Rising` |
+
+### Brown, Roseanne A.
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Fantasy`, `Romance` | `A Song of Wraiths and Ruin` | `#1` | `A Song of Wraiths and Ruin` |
+| `Fantasy`, `Romance` | `A Song of Wraiths and Ruin` | `#2` | `A Psalm of Storms and Silence` |
+
+### Buchanan, Rowan Hisayo
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Contemporary`, `Mental Health` | `N/A` | | `Starling Days` |
+
+### Bulgakov, Mikhail
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Classic`, `Fantasy` | `N/A` | | `The Master and Margarita` |
+
 ### Burgess, Anthony
 
 | Genre | Series | No. | Title |
 |:--|:--|:--|:--|
 | `Classic`, `Dystopia` | `N/A` | | `A Clockwork Orange` |
+
+### Burke, Caro Claire
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Historical`, `Mystery` | `N/A` | | `Yesteryear` |
+
+### Butler, Octavia E.
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Historical`, `Science Fiction` | `N/A` | | `Kindred` |
 
 <h3><pre>C</pre></h3>
 
@@ -380,6 +686,12 @@
 | Genre | Series | No. | Title |
 |:--|:--|:--|:--|
 | `Science Fiction`, `Historical` | `Stranger Things` | `#5` | `Rebel Robin` |
+
+### Carson, Heather
+
+| Genre | Series | No. | Title |
+|:--|:--|:--|:--|
+| `Anthology`, `Fantasy` | `N/A` | | `Once Upon A Dystopia` |
 
 ### Carty-Williams, Candice
 
